@@ -8,9 +8,15 @@
 
 
 Video Link: https://github.com/ardayemenn/MIS376/blob/main/Video_presentation.mp4
+
 We worked together in this project.
+
 Our GitHub pages:
+
 Muhammed Ali Kurtuluş - 17030411033: https://github.com/malikrtls
+
 Ahmet Arda Yemen - 17030411020: https://github.com/ardayemenn
+
 Project page:
+
 https://github.com/ardayemenn/MIS376
